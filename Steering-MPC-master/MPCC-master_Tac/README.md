@@ -1,5 +1,5 @@
 # Note
-Code developed originally by Dr. Alex Liniger et al.
+Code developed originally by Dr. Alex Liniger et al. My version uses an alternative to Quadprog Quadratic Problem optimization solver. This method was coded from scratch.
 
 # MPCC
 Simulation environment of the Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich
