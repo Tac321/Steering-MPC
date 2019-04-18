@@ -8,8 +8,8 @@ Simulation environment of the Model Predictive Contouring Controller (MPCC) for 
 ## How to run
 
 ### Before running code
-1) Install [hpipm](https://github.com/giaf/hpipm) including the python interface
-2) alternativly install Yalmip or CVX
+1) Install ...
+2) Use quadprog, "MPC_vars.interface = 'quadprog';" Note: use of Quadprog yeilds more accurate solution than my QP solver.
 ### Run code
 1) run simulation.m
 2) play with the tunning in getMPC_vars.m
