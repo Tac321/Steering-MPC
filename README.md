@@ -1,12 +1,8 @@
 # Steering-MPC
 
-...
-
 % Readme
 % This file contains brief information about the code.
-%
 % Author : Shawn Daniel
-
 
 About the Repository:
 The following code directories are the simulations of the steering car problem using MPC to track a trajectory. 
