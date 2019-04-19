@@ -38,7 +38,7 @@ Code developed originally by Dr. Alex Liniger et al. My repository only uses an 
 3) change the car model between FullSize and ORCA
 4) change the track layout between the ORCA and the RCP track
 
-## Example
+## Illustration
 <img src="https://github.com/alexliniger/MPCC/blob/master/Images/MPC_sim.gif" width="700" />
 
 
