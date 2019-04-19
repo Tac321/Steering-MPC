@@ -52,7 +52,10 @@ pp. 265–291, 2005.
 Bakker, E., Nyborg, L., Pacejka, H. B., 1987. "Tyre modeling for use in vehicle dynamics studies". SAE paper # 870421.
 Please check the report for other references.
 
+Liniger, A., et al.,  (2015). "Optimization-based autonomous racing of 1: 43 scale RC cars". Optimal Control Applications and Methods, 36(5), 628–647.
 
+
+## Notes
 System Requirements 
 You need to have the MATLAB Optimization Toolbox installed in order to run this program.
 
