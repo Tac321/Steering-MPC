@@ -19,7 +19,7 @@ lateral positions, and heading.The vehicle is assumed to have body frame longitu
 ## MPCC
 Simulation environment of the Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich.
 
-# Note
+### Note
 Code developed originally by Dr. Alex Liniger et al. My repository only uses an alternative to Quadprog(), (Quadratic Problem optimization solver) . My QP solver was coded from scratch.
 
 
@@ -29,17 +29,17 @@ Code developed originally by Dr. Alex Liniger et al. My repository only uses an 
 1) Install ...
 2) Use quadprog, "MPC_vars.interface = 'quadprog';" Note: use of Quadprog yeilds more accurate solution than my QP solver.
 ### Run code
-1) run simulation.m
-2) play with the tunning in getMPC_vars.m
-3) change the car model between FullSize and ORCA
-4) change the track layout between the ORCA and the RCP track
+1) Run simulation.m
+2) Play with the tunning in getMPC_vars.m
+3) Change the car model between FullSize and ORCA
+4) Change the track layout between the ORCA and the RCP track
 
 ## Illustration
 <img src="https://github.com/alexliniger/MPCC/blob/master/Images/MPC_sim.gif" width="700" />
 
 
 ## Papers
-The papers referenced for these two codes are:
+The papers referenced throughout this repository:
 F. Borrelli, P. Falcone, T. Keviczky, J. Asgari, and D. Hrovat,
 “MPC-based approach to active steering for autonomous vehicle
 systems,” Int. J. Vehicle Autonomous Systems, vol. 3, no. 2/3/4,
@@ -55,7 +55,7 @@ Liniger, A., et al.,  (2015). "Optimization-based autonomous racing of 1: 43 sca
 System Requirements 
 You need to have the MATLAB Optimization Toolbox installed in order to run this program.
 
-Fun Notes: In locations where the script "O PLAY" is seen, this notes where a user can change parameters to see the convergence nature of MPC
+Fun Notes: In locations where the script "O PLAY" is seen, this notes where a user can change parameters to see the convergence nature of MPC.
 
 
 
